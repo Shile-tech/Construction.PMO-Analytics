@@ -2,7 +2,7 @@
 
  Turning construction project data into decisions, a full analytics pipeline using SQL Server and Excel.
 
-End-to-end SQL and Excel analysis of 50 construction projects across Nigeria uncovering cost overrun drivers, schedule delay patterns, and contractor performance to support data driven project management decisions.
+SQL and Excel analysis of 50 construction projects across Nigeria uncovering cost overrun drivers, schedule delay patterns, and contractor performance to support data driven project management decisions.
 
 ---
 
@@ -99,7 +99,7 @@ construction-pmo-analytics/
 
 - Relational database design (Primary Keys, Foreign Keys, CHECK constraints)
 - Data validation and integrity checking in SQL Server
-- Aggregation, grouping, and window functions in SQL
+- Aggregation, grouping, CTE and window functions in SQL
 - Financial data analysis (budget variance, overrun rates)
 - Executive level dashboard design in Excel
 - Translating data findings into business recommendations
@@ -109,7 +109,7 @@ construction-pmo-analytics/
 ## 👤 Author
 
 **MONSURU ADELEKE**
-Civil Engineering Graduate | Data Analyst
+Data Analyst | Civil Engineering Graduate
 📍 Nigeria
 🔗 www.linkedin.com/in/adeleke-monsuru
 📧 adelekemonsuru840@gmail.com
