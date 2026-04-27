@@ -1,0 +1,50 @@
+﻿project_id,project_name,contractor,budget_NGN,cost_overrun_NGN,perc_cost_overrun,planned_dur_months,sched_delay_months,perc_dur_overrun,perct_completed,status,risk_score,risk_variation
+PRJ-012,Abuja School Block Phase 1,Pioneer Builders Ltd,934761000.00,488216000.00,52.23,28,19,67.86,52.00,Ongoing,60.05,High Risk
+PRJ-005,Kano Erosion Control Phase 2,BuildRight Nig Ltd,1557483000.00,842805000.00,54.11,26,16,61.54,78.00,Ongoing,57.83,High Risk
+PRJ-032,Delta Drainage System Phase 3,Fedex Const. Co.,761070000.00,388034000.00,50.99,14,9,64.29,56.00,Ongoing,57.64,High Risk
+PRJ-015,Rivers Drainage System Phase 3,Greenfield Eng Ltd,566860000.00,268385000.00,47.35,39,26,66.67,99.00,Ongoing,57.01,High Risk
+PRJ-033,Enugu Bridge Phase 1,Horizon Builders,1511481000.00,763991000.00,50.55,27,16,59.26,52.00,Ongoing,54.91,High Risk
+PRJ-045,Rivers Culvert Phase 3,Greenfield Eng Ltd,1515965000.00,688123000.00,45.39,29,16,55.17,96.00,Ongoing,50.28,High Risk
+PRJ-034,Enugu Drainage System Phase 1,Grandeur Works,360436000.00,133638000.00,37.08,36,22,61.11,90.00,Ongoing,49.09,Moderate Risk
+PRJ-036,Delta Retaining Wall Phase 1,Horizon Builders,274916000.00,146321000.00,53.22,23,9,39.13,63.00,Ongoing,46.17,Moderate Risk
+PRJ-009,Rivers Culvert Phase 1,Pioneer Builders Ltd,1502729000.00,410826000.00,27.34,39,25,64.1,81.00,Ongoing,45.72,Moderate Risk
+PRJ-041,Rivers Culvert Phase 1,BuildRight Nig Ltd,1344515000.00,432338000.00,32.16,17,10,58.82,60.00,Ongoing,45.49,Moderate Risk
+PRJ-037,Delta Erosion Control Phase 1,Nile Construction,1232107000.00,316471000.00,25.69,36,23,63.89,54.00,Ongoing,44.79,Moderate Risk
+PRJ-026,Rivers Hospital Phase 3,Pioneer Builders Ltd,1861586000.00,952091000.00,51.14,12,4,33.33,42.00,Delayed,42.23,Moderate Risk
+PRJ-044,Kaduna Drainage System Phase 3,Horizon Builders,668731000.00,269599000.00,40.32,40,17,42.5,94.00,Ongoing,41.41,Moderate Risk
+PRJ-050," Edo Drainage System Phase 1",Horizon Builders,1204191000.00,418817000.00,34.78,17,8,47.06,47.00,Delayed,40.92,Moderate Risk
+PRJ-006,Rivers School Block Phase 3,Nile Construction,1356842000.00,503513000.00,37.11,16,7,43.75,51.00,Ongoing,40.43,Moderate Risk
+PRJ-011,Delta Hospital Phase 2,Mainland Const. Co.,540258000.00,152318000.00,28.19,12,6,50,44.00,Delayed,39.09,Moderate Risk
+PRJ-020,Kano Housing Estate Phase 3,Horizon Builders,872669000.00,102213000.00,11.71,27,17,62.96,39.00,Delayed,37.34,Moderate Risk
+PRJ-031,Anambra Hospital Phase 3,Tetrazzini & Sons Ltd,1892849000.00,690155000.00,36.46,21,8,38.1,77.00,Ongoing,37.28,Moderate Risk
+PRJ-048," Edo Road Construction Phase 3",Grandeur Works,1888346000.00,243913000.00,12.92,36,22,61.11,83.00,Ongoing,37.02,Moderate Risk
+PRJ-021,Lagos Bridge Phase 2,Horizon Builders,1856416000.00,852499000.00,45.92,22,6,27.27,91.00,Ongoing,36.59,Moderate Risk
+PRJ-013,Anambra Water Treatment Plant Phase 1,Mainland Const. Co.,779132000.00,36564000.00,4.69,45,29,64.44,71.00,Ongoing,34.56,Moderate Risk
+PRJ-029,Oyo Water Treatment Plant Phase 1,Mainland Const. Co.,447015000.00,147758000.00,33.05,28,10,35.71,62.00,Ongoing,34.38,Moderate Risk
+PRJ-027,Anambra Housing Estate Phase 3,Pioneer Builders Ltd,1767685000.00,844179000.00,47.76,35,7,20,86.00,Ongoing,33.88,Moderate Risk
+PRJ-008,Enugu Road Construction Phase 3,Grandeur Works,461417000.00,237974000.00,51.57,32,5,15.63,93.00,Ongoing,33.6,Moderate Risk
+PRJ-018,Kano Culvert Phase 1,Horizon Builders,1173613000.00,112430000.00,9.58,42,24,57.14,54.00,Ongoing,33.36,Moderate Risk
+PRJ-024,Anambra Road Construction Phase 3,BuildRight Nig Ltd,1210318000.00,429817000.00,35.51,27,8,29.63,61.00,Ongoing,32.57,Moderate Risk
+PRJ-042,Rivers Housing Estate Phase 2,Tetrazzini & Sons Ltd,1968675000.00,623606000.00,31.68,16,5,31.25,54.00,Ongoing,31.46,Moderate Risk
+PRJ-022,Rivers Road Construction Phase 1,Grandeur Works,567146000.00,238452000.00,42.04,41,8,19.51,92.00,Ongoing,30.77,Moderate Risk
+PRJ-004," Edo School Block Phase 2",Pioneer Builders Ltd,1095645000.00,584931000.00,53.39,36,2,5.56,67.00,Ongoing,29.48,Moderate Risk
+PRJ-010,Anambra Drainage System Phase 1,Greenfield Eng Ltd,1729151000.00,72114000.00,4.17,22,12,54.55,84.00,Ongoing,29.36,Moderate Risk
+PRJ-003,Rivers Road Construction Phase 2,Grandeur Works,353185000.00,185185000.00,52.43,33,2,6.06,78.00,Ongoing,29.25,Moderate Risk
+PRJ-028," Edo Water Treatment Plant Phase 1",Horizon Builders,633789000.00,220580000.00,34.8,20,4,20,43.00,Delayed,27.4,Moderate Risk
+PRJ-023,Kano Water Treatment Plant Phase 1,Tetrazzini & Sons Ltd,168867000.00,23331000.00,13.82,15,6,40,94.00,Ongoing,26.91,Moderate Risk
+PRJ-039,Delta Water Treatment Plant Phase 3,Nile Construction,1131104000.00,73639000.00,6.51,36,17,47.22,52.00,Ongoing,26.86,Moderate Risk
+PRJ-040,Delta Water Treatment Plant Phase 3,Horizon Builders,609482000.00,126731000.00,20.79,32,10,31.25,86.00,Ongoing,26.02,Moderate Risk
+PRJ-007,Rivers Housing Estate Phase 1,Greenfield Eng Ltd,1979571000.00,661176000.00,33.4,47,7,14.89,71.00,Ongoing,24.14,Moderate Risk
+PRJ-049," Edo Retaining Wall Phase 2",Apex Infra Ltd,582224000.00,140540000.00,24.14,36,8,22.22,81.00,Ongoing,23.18,Moderate Risk
+PRJ-030,Oyo Hospital Phase 3,Tetrazzini & Sons Ltd,1553682000.00,516239000.00,33.23,28,3,10.71,86.00,Ongoing,21.97,Moderate Risk
+PRJ-038,Lagos Hospital Phase 3,Horizon Builders,760232000.00,-6094000.00,0,33,14,42.42,45.00,Delayed,21.21,Moderate Risk
+PRJ-043,Kano Hospital Phase 2,Fedex Const. Co.,1567920000.00,127479000.00,8.13,45,15,33.33,61.00,Ongoing,20.73,Moderate Risk
+PRJ-002,Kano Bridge Phase 2,Apex Infra Ltd,101745000.00,7051000.00,6.93,46,14,30.43,87.00,Ongoing,18.68,Low Risk
+PRJ-047,Kano Drainage System Phase 3,BuildRight Nig Ltd,695219000.00,159591000.00,22.96,15,2,13.33,83.00,Ongoing,18.14,Low Risk
+PRJ-014,Enugu Bridge Phase 3,Pioneer Builders Ltd,519700000.00,150928000.00,29.04,17,1,5.88,92.00,Ongoing,17.46,Low Risk
+PRJ-025," Edo Road Construction Phase 2",BuildRight Nig Ltd,1152193000.00,161102000.00,13.98,28,4,14.29,70.00,Ongoing,14.13,Low Risk
+PRJ-035,Enugu Culvert Phase 2,Pioneer Builders Ltd,96146000.00,6334000.00,6.59,33,6,18.18,38.00,Delayed,12.38,Moderate Risk
+PRJ-046,Oyo Housing Estate Phase 2,Greenfield Eng Ltd,507262000.00,76855000.00,15.15,46,3,6.52,49.00,Delayed,10.84,Moderate Risk
+PRJ-001,Lagos Bridge Phase 1,Pioneer Builders Ltd,322099000.00,3703000.00,1.15,46,3,6.52,84.00,Ongoing,3.83,Low Risk
+PRJ-017,Lagos Housing Estate Phase 3,BuildRight Nig Ltd,181431000.00,-5652000.00,0,33,2,6.06,60.00,Ongoing,3.03,Low Risk
+PRJ-019,Enugu Hospital Phase 1,Grandeur Works,1734482000.00,-30349000.00,0,18,1,5.56,73.00,Ongoing,2.78,Low Risk

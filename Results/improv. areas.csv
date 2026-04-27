@@ -1,0 +1,19 @@
+﻿category,dimension,high_risk_count,avg_risk_score
+CCECC Consult,Consultant,3,55.08
+AECOM Nigeria,Consultant,2,57.73
+Scott Wilson,Consultant,1,57.01
+Adverse weather,Delay Reason,2,57.33
+Community protest,Delay Reason,1,54.91
+Design changes,Delay Reason,1,57.83
+Equipment breakdown,Delay Reason,1,50.28
+Labour dispute,Delay Reason,1,60.05
+Drainage System,Project Type,2,57.33
+Erosion Control,Project Type,1,57.83
+School Block,Project Type,1,60.05
+Bridge,Project Type,1,54.91
+Culvert,Project Type,1,50.28
+Rivers,State,2,53.64
+Abuja,State,1,60.05
+Delta,State,1,57.64
+Enugu,State,1,54.91
+Kano,State,1,57.83
