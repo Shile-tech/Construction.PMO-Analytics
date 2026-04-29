@@ -6,7 +6,7 @@ SQL and Excel analysis of 50 construction projects across Nigeria uncovering cos
 
 ## 📸 Dashboard Preview
 
-![Construction PMO Dashboard](dashboard/CONSTRUCTION PMO DASHBOARD.png)
+![Construction PMO Dashboard](dashboard/construction_pmo_dashboard.png)
 ---
 
 ## 📌 Project Background
